@@ -1,0 +1,1 @@
+Intente modular pero no me reconoce los archivos por separado, no se si sera el dev-c++
